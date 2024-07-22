@@ -1,0 +1,94 @@
+ .as{
+   
+    filter: invert(100%);
+    height: 5%;
+    width: 4%;
+    margin-top: 3%;
+}
+
+.bh{
+    margin-top: 2%;
+    margin-left: 20px;
+    
+    font-size: 130%;
+}
+.koi{
+    display: flex;
+    flex-direction: column;
+margin-left: 4%;
+gap: 5px;
+margin-top: -2%;
+
+}
+.bh:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.fact{
+    display:flex;
+
+width: 160%;
+}
+
+.as:hover{
+    cursor:pointer;
+    
+}
+/*
+
+
+
+
+
+.lh{
+    padding-bottom: 10px;
+    height: 25px;
+    width: 25px;
+}
+
+
+.leftbl{
+     position: fixed;
+    background-color: #121212;
+    height: 81%;
+    width: 24.1%;
+   
+    margin-left: -16px;
+    border-radius: 8px;
+    z-index: -1;
+    margin-top: -125%;
+  
+    
+    
+}
+.bhav{
+  
+        height: 23px;
+        width: 30px;
+        filter: drop-shadow(3px 4px 5px);
+         position: fixed;
+        margin-top: -123%;
+        filter: grayscale(-110%);
+    
+  
+}
+.v:hover{
+    cursor: pointer;
+    background-color: aliceblue;
+    border-radius: 27px;
+}
+
+.mylibrary{
+margin-top: -132%;
+    margin-left: 4%;
+    font-weight: 700;
+    font-size: 18px;
+    color: grey;
+    
+}
+
+.cv{
+    margin-left: 20%;
+    margin-top: 20%;
+} */

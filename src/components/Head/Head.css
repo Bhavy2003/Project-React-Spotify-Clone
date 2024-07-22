@@ -1,0 +1,207 @@
+.loou{
+
+    display: grid;
+    width: 40%;
+    grid-template-columns: 100px 150px;
+    gap: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: small;
+  
+ 
+ 
+}
+.hhjj{
+    border: 2px solid white;
+    width: fit-content;
+    padding:3px;
+    border-radius: 40px;
+    margin-top:-5%;
+}
+.loou>p:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.oiy{
+    background-color: #242424;
+    border-radius: 10px;
+    width: 95%;
+   
+
+}
+ /* .kj {
+    height: 10%;
+    width: 90%;
+    overflow: hidden;
+
+} 
+.kj:hover{
+    cursor: pointer;
+    overflow-y: scroll;
+}
+
+.kj:hover .scroll-container::-webkit-scrollbar-thumb {
+   opacity: 1;
+   visibility: visible;
+   display: inline-block;
+}
+
+.scroll-container {
+   height: 50%;
+   overflow-y: scroll;
+
+}
+
+.scroll-container::-webkit-scrollbar {
+   width: 12px;
+
+}
+
+.scroll-container::-webkit-scrollbar-track {
+   background: #f1f1f1;
+   opacity: 0;
+   visibility: hidden;
+}
+
+.scroll-container::-webkit-scrollbar-thumb {
+
+   opacity: 0;
+   visibility: hidden;
+
+}
+.scroll-container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+    visibility: visible;
+
+}
+
+.scroll-container::-webkit-scrollbar-button {
+    display: none;
+
+} */
+.yourlibrary {
+    display: flex;
+    margin-left: 13%;
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+}
+.your{
+    margin-left: 5%;
+}
+
+
+
+.your:hover {
+   color: #f1f1f1;
+   font-weight: bold;
+   cursor: pointer;
+} 
+.kj {
+    
+    height: 10%;
+    width: 90%;
+    overflow: hidden;
+    scroll-behavior: smooth; /* Add smooth scroll behavior */
+}
+
+.kj:hover {
+    cursor: pointer;
+    overflow-y: scroll;
+}
+
+.scroll-container {
+    height: 50%;
+    overflow-y: scroll;
+    scroll-behavior: smooth; /* Add smooth scroll behavior */
+}
+
+.scroll-container::-webkit-scrollbar {
+    width: 12px;
+  
+}
+
+.scroll-container::-webkit-scrollbar-track {
+  
+    opacity: 0;
+    visibility: hidden;
+}
+
+.scroll-container::-webkit-scrollbar-thumb {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.scroll-container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+    visibility: visible;
+}
+
+.scroll-container::-webkit-scrollbar-button {
+    display: none;
+}
+
+/* Add this class to handle scroll on hover */
+.auto-scroll {
+    animation: scroll 5s linear infinite; /* Add a custom animation for auto-scroll */
+}
+
+@keyframes scroll {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-50%); } /* Adjust the percentage based on the height of your scroll container */
+}
+.yourk{
+    margin-left: 13rem;
+}
+.MuiPaper-root .MuiPaper-elevation .MuiPaper-rounded .MuiPaper-elevation24 .MuiDialog-paper .MuiDialog-paperScrollPaper .MuiDialog-paperWidthSm .css-1t1j96h-MuiPaper-root-MuiDialog-paper{
+    margin-top: -100%;
+    margin-left: -95%;
+}
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper{
+    background-color: #383838;
+} 
+/* .scrollcontainer {
+    height: 50%;
+    overflow-y: scroll;
+    scroll-behavior: smooth; 
+} */
+
+.scrollcontainer::-webkit-scrollbar {
+    width: 12px;
+  
+}
+
+.scrollcontainer::-webkit-scrollbar-track {
+  
+    opacity: 0;
+    visibility: hidden;
+}
+
+.scrollcontainer::-webkit-scrollbar-thumb {
+    opacity: 0;
+
+}
+
+.scrollcontainer::-webkit-scrollbar-thumb:hover {
+    background: #555;
+    visibility: visible;
+}
+
+.scrollcontainer::-webkit-scrollbar-button {
+    display: none;
+}
+
+/* Add this class to handle scroll on hover */
+.auto-scroll {
+    animation: scroll 5s linear infinite; /* Add a custom animation for auto-scroll */
+}
+
+@keyframes scroll {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-50%); } 
+}
+
+
+
+
+

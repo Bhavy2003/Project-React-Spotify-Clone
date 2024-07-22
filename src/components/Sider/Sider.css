@@ -1,0 +1,161 @@
+
+
+/* .sider>div>img {
+    width: 140px;
+}
+.artist {
+    font-size: 30px;
+    margin: 200px;
+} */
+/* .sider {
+    margin-left: 340px;
+    margin-right: 20px;
+    margin-top: -5px;
+    padding-top: 30px;
+    font-size: 12px;
+    
+
+}
+.sizeimg {
+    height: 110px;
+    margin-left: 10px;
+    border-radius: 50px;
+    width: 100px;
+} */
+/* .lo{
+    display: flex;
+    border-radius: 10px;
+    height: 120px;
+    width: 120px;
+    gap: 10px;
+}
+
+
+.kkk {
+    &>h3 {
+        margin-left: 10px;
+        font-size: 13px;
+    }
+
+    &>h5 {
+        margin-left: 10px;
+        font-size: 12px;
+    }
+} */
+
+/* .helloc {
+   
+    width: 50px;
+    height: 45px;
+    margin-left: 67px;
+    margin-top: -25px;
+    
+} */
+/* .container>.helloc{
+    display: none;
+} */
+ /* .jkp{
+    position: absolute;
+    background-color: rgb(60 60 60 / 48%);
+    z-index: -1;
+    margin-top: 4%;
+    height: 1731px;
+    border-bottom-left-radius: 7px;
+    width: 945px;
+    margin-left: 295px;
+    border-bottom-right-radius: 7px;
+ } */
+ /* .lo{
+    border-radius: 5px;
+ }
+ .gfd{
+    margin-left: 630px;
+    color: grey;
+    text-decoration: underline;
+ }
+ .gfd:hover{
+    cursor: pointer;
+ }
+ .kkk{
+    margin-top: 2px;
+ } */
+/* 
+
+.kkk .helloc {
+    display: none; 
+}
+.wrapper {
+    width:100%;
+    position:fixed;
+    z-index:10;
+    background:inherit;
+}
+.bottom-wrapper {
+    width:100%;
+    padding-top:92px;
+    z-index:5;
+    overflow:auto;
+}
+
+.kkk:hover .helloc {
+    margin-top: -25%;
+    margin-left: 80px;
+    position: absolute;
+    display: inline-block; 
+} */
+
+/* 
+.kkk:hover {
+   position: absolute;
+    background-color: rgb(53, 51, 51);
+    width: 140px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.iop{
+    font-weight: 900;
+    font-size: 25px;
+    margin-inline-start: 200px;
+    margin-top: 90px;
+}
+.ui{
+    margin-top: 37px;
+    margin-left: 130px;
+    padding-top:50px;
+}
+.iop:hover{
+    font-weight: 900;
+    font-size: 25px;
+    margin-inline-start: 200px;
+    text-decoration: underline;  
+}
+.dfg{
+    background-color: grey;
+} */
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+  .example::-webkit-scrollbar {
+    display: none;
+}
+.slider-container{
+    margin-top: -1.5%;
+}
+

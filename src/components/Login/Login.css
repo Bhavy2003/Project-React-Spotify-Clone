@@ -1,0 +1,189 @@
+.logbar {
+    color: rgb(255, 255, 255);
+    background: linear-gradient(rgba(31, 31, 31, 0.81) 0%, rgb(56, 55, 55) 100%);
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    border-radius: 10px;
+    margin-left: 15%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.lom{
+    display: flex;
+    margin-left: -50px;
+}
+.logbar>p {
+    justify-content: center;
+    align-items: center;   
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    height: 35px;
+    width: 350px;
+    border-radius: 20px;
+    background: none;
+    border: 1px solid white;
+    font-size: 15px;
+    color: antiquewhite;
+    font-weight: bolder;
+  
+}
+.mlp{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.conlog{
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    margin-bottom: 20px;
+}
+.btn>img{
+    width: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.kmk{
+    filter: invert(100%);
+}
+
+.logbar>p>img{
+    width: 30%;
+    margin-left: 30%;
+    margin-top: 5%;
+    filter: invert(100%);
+}
+.loginto{
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+hr{
+  width: 67%;
+  margin-left: 4%;
+
+}
+.djh{
+    border-radius: 5px;
+}
+/* Login.css */
+.djh .MuiOutlinedInput-root {
+    color: white;
+  }
+  
+  .djh .MuiOutlinedInput-root .MuiOutlinedInput-input {
+    color: white;
+    margin-left: -60px;
+  }
+  
+  .djh .MuiInputLabel-root {
+
+    color: rgb(226, 214, 214);
+  
+    margin-left: -60px;
+  }
+  
+  .djh .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(206, 197, 197);
+   
+    width: 230%;
+   
+    
+    margin-left: -60px;
+  }
+  .djh:hover .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(231, 229, 229);
+
+    margin-left: -60px;
+  }
+  
+  .djh .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-input {
+    color: white;
+    margin-left: -60px;
+  }
+  
+  .djh .MuiOutlinedInput-root.Mui-focused .MuiInputLabel-root {
+    color: rgb(219, 216, 216);
+
+    margin-left: -60px;
+  }
+  
+  .djh .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: white;
+    
+  }
+  .pp{
+    margin-top: 2%;
+    margin-bottom: 3%;
+    margin-left: -113px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+  }
+  .lmp{
+    margin-left: 60px;
+  }
+.hgh{
+    margin-right: -326px;
+}
+.MuiIconButton-root svg{
+  margin-right: 3px;
+    margin-top: 191%;
+}
+.iu{
+    margin-top: 3%;
+}
+
+
+
+.asd>Button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: #1ed760;
+}
+.passcode{
+    margin: 8px;
+    text-decoration: underline;
+    padding-left: 28px;
+    margin-top: -10px;
+    margin-bottom: 4%;
+
+
+}
+.passcode:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color: #1ed760;
+}
+.sp:hover{
+color:#1ed760 ;
+}
+.cb{
+    padding: 70px;
+}
+.footerl{
+    margin-top: 7%;
+    text-align: center;
+    font-size: large;
+    background-color: rgb(68, 67, 67);
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: -10%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+
+    & p>span{
+      text-decoration: underline;
+    }
+
+  
+}

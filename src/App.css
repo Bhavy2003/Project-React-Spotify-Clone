@@ -1,0 +1,381 @@
+.asp{
+    color: white;
+    margin-left: 316px;
+    padding-bottom: 40px;
+}
+
+
+.main-layout{
+    display: flex;
+    flex-wrap: wrap;
+    
+    height: 100vh;
+    
+}
+
+.chlid-compo:first-child{
+    width: 30%;
+    /* background: yellow; */
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.chlid-compo:last-child{
+    width: 70%;
+    /* background: orange; */
+}
+.anotherchild{
+    margin-top: 5.7%;
+    height: 91.5%;
+    width: 99.14%;
+    background-color: rgb(42 41 42);
+    padding: 1%;
+}
+.first-compo{
+    margin: 0.2%;
+    width: 28.5%;
+    height: 22.5%;
+    border-radius: 10px;
+    margin-left: 0.5%;
+    background-color: rgb(42 41 42);
+    position: fixed;
+   
+    
+}
+
+  
+   
+
+.second-compo {
+    margin: 0.5%;  
+    margin-top: 10.9%;
+    width: 28.5%;
+    height: 75%;
+    background-color: rgb(42 41 42);
+    position: fixed;
+    border-radius: 10px;
+    margin-left: 0.5%;
+}
+.MuiSvgIcon-root .MuiSvgIcon-fontSizeMedium .css-i4bv87-MuiSvgIcon-root{
+    margin-top: 25%;
+}
+@media only screen and (min-width: 300px) and (max-width: 700px) {
+    /* body {
+      background-color: lightblue;
+    } */
+    .first-compo,.second-compo{
+        display: none;
+     }
+     .anotherchild{
+        margin-left: -40%;
+        height: 95.5%;
+        /* width: max-content; */
+        width: auto;
+     }
+     .playertrack{
+        margin-top: 1%;
+     }
+     .ui{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        
+     }
+     .gfd{
+        margin-top: -8%;
+     }
+     .containerq{
+        margin: -4%;
+     }
+     .titleq{
+        margin-top: -22%;
+     }
+     .jkp{
+        font-size: 12px;
+     }
+     
+     .hehe>p{
+        font-size: 20px;
+     }
+     /* .qwp{
+        /* height: max-content; */
+       /* display: hidden; */
+    .icons{
+       
+       padding: 0%;
+       margin: 0%;
+        position: fixed;
+
+    }
+    .playercar{
+        /* display: visible; */
+        /* margin: -10px; */
+        margin: -20px;
+        position: fixed;
+        width: 104%;
+        /* margin-left: 60%; */
+    }
+    .onpaper {
+        margin-left: -4%;
+    }
+    .ofpaper{
+        margin-left: -14%;
+        width: 14%;
+    }
+    .back{
+        margin-left: 1%;
+    }
+    .ghj{
+        margin-left: 1%;
+        margin-top: 16%;
+    }
+    .signu{
+        margin-left: -365%;
+    }
+    .pp{
+       & Button{
+        width: 150px;
+        margin-left: 45%;
+       }
+      
+       
+    }
+    
+    .djh .MuiOutlinedInput-root {
+        color: white;
+        width: 43%;
+        /* margin-left: 5%; */
+      }
+      .MuiIconButton-root svg{
+        margin-left: 50%;
+        
+      }
+      .pass{
+        margin-top: -80%;
+      }
+      .loginto{
+        margin-left: 20%;
+      }
+      
+
+      
+      
+    
+    .email{
+        margin-left: 52%;
+     
+    }
+    .lom{
+       visibility: hidden;
+    }
+    .MuiPaper-root{
+        margin-left: -30%;
+        width: 90%;
+    }
+    .off{
+        width: fit-content;
+        display: flex;
+        flex-direction: column;
+       margin-left: -70%;
+    }
+    .cardf{
+        margin-left: -8%;
+    }
+    .cardh{
+        margin-left: -100%;
+    }
+    .cardh .MuiInputLabel-root {
+        color: rgb(226, 214, 214);
+        margin-left: 10px;
+    }
+    .oof{
+        margin: -15%;
+        
+    }
+    .contain{
+        margin-top: 12%;
+      }
+      .side1 {
+        width: 100px;
+    }
+    .slick-list{
+        margin-left: 5px;
+    }
+   
+
+   
+   
+    
+    
+
+     
+    
+
+  }
+  @media screen and (min-width: 350px) and (max-width: 400px) {
+    .signu{
+        margin-left: -340%;
+    }
+    .loginto{
+        margin-left: 25%;
+      }
+      .titleq{
+        margin-top: -15%;
+     }
+      
+  }
+  @media screen and (min-width: 400px) and (max-width: 600px)  {
+    .signu{
+        margin-left: -320%;
+    }
+    .titleq{
+        margin-top: -10%;
+     }
+    
+    .loginto{
+        margin-left: 30%;
+      }
+      .ghj{
+        margin-top: 12%;
+      }
+      .qwp{
+        margin-top: 10.8%;
+      }
+  }
+  @media screen and (min-width: 600px) {
+    .clop{
+        display: none;
+    }
+  }
+  @media screen and (min-width: 700px) and (max-width: 1000px)  {
+    .second-compo {
+        margin-top: 26%;
+    }
+    .first-compo {
+        margin-top: 1%;
+    }
+    .koi{
+        padding-top: 22px;
+    }
+    .bh{
+        margin-top: 0px;
+    }
+    .yourlibrary{
+        padding-left: 10%;
+    }
+    .ghj{
+        margin-top: 4.5%;
+        margin-left: 0.5%;
+    }
+    .contain{
+        margin-top: 4%;
+    }
+    .gfd{
+        display: none;
+    }
+    .signu{
+        margin-left: -260%;
+    }
+    .anotherchild{
+        height: 95.5%;
+    }
+   
+      .cardf{
+        margin-left: -10%;
+      } 
+    .djh .MuiOutlinedInput-root {
+        color: white;
+        width: 40%;
+        
+      } 
+      .oof{
+        margin-left: -20%;
+      }
+      .dj .MuiOutlinedInput-root {
+        width: 99%;
+        margin-left: -2%;
+        
+      }
+      .css-1bpnopw-MuiPaper-root-MuiCard-root{
+        margin-left: -10%;
+      }
+      .titleq{
+        margin-top: -18.5%;
+     }
+     .playertrack{
+        margin-top: -93px;
+    }
+    .onpaper{
+        margin-left: 12%;
+    }
+    /* .ofpaper{
+        margin-top: 10%;
+    } */
+     .closef{
+        margin-top: 0.5%;
+     }
+     
+    .invert{
+        margin-left: -1600%;
+        
+    }
+    
+      
+    
+  }
+  @media screen and (min-width: 1000px)  and (max-width: 1400px) {
+    .djh .MuiOutlinedInput-root {
+        color: white;
+        width: 47%;
+        
+      } 
+      .dj .MuiOutlinedInput-root {
+        width: 99%;
+        margin-left: -2%;
+        
+      }
+      .css-1bpnopw-MuiPaper-root-MuiCard-root{
+        margin-left: -5%;
+      }
+      .oof{
+        margin-left: -20%;
+      }
+      .second-compo {
+        margin-top: 19.5%;
+    }
+    .anotherchild{
+        height: 94.5%;
+    }
+    .ghj{
+        margin-top: 2%;
+        margin-left: 0.2%;
+        width:max-content;
+    }
+    .signu{
+        margin-left: -180%;
+    }
+    .titleq{
+        margin-top: -8%;
+    }
+    .playertrack{
+        margin-top: -63px;
+    }
+    .onpaper{
+        margin-left: 13%;
+    }
+    .closef{
+        margin-left: -8%;
+        margin-top: 0.5%;
+    }
+    @media screen and (min-width: 1401px)  {
+        .footerl{
+            width: 100%;
+        }
+        
+    }
+    
+    
+   
+  }
+  

@@ -1,0 +1,104 @@
+
+.jkp>img{
+ margin-left: -1%;
+    width: 102%;
+    height: 356px;
+    opacity: 0.4;
+    max-width: 120%;
+    margin-top: -1%;
+  
+   
+  }
+  .jkp{
+    border-radius: 20px;
+  }
+
+  .titleq>img{
+
+    width: 20px;
+    height: 20px;
+  
+  }
+  .titleq{
+    display: flex;
+    margin-bottom: -4%;
+  
+  }
+  .qwp{
+    /* height: max-content; */
+   height: min-content;
+    margin-left: -1%;
+    width: 102%;
+    margin-top: 5.8%;
+   gap: 30px;
+   background: linear-gradient( rgb(104, 44, 44),  rgb(80, 80, 77) , rgb(80, 80, 77));
+   /* margin-bottom: 10%; */
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  }
+  .containerq{
+    margin-top: -20%;
+    margin-left: 3%;
+    font-size: 30px;
+    z-index: 1;
+  }
+  .btn{
+    width:auto;
+    
+    margin-top: 5%;
+  
+  }
+  .containerq>p{
+    gap: -10px;
+  }
+
+.imq{
+      height: 3%;
+    width: 9%;
+    margin-top: 2%;
+  }
+  .imq:hover{
+transform: scale(1.1);
+  }
+
+  .re{
+   font-size: 40px;
+    font-weight: bolder;
+
+        }
+  .MuiIconButton-root svg { 
+          margin-right: 0px;
+          margin-top: 104%;
+
+      }
+
+      .MuiPaper-root {
+        top: 484px;
+     left: 609px;
+      }
+      .css-6hp17o-MuiList-root-MuiMenu-list{
+        background-color:#6f4c4c85 ;  
+      }
+      .css-3dzjca-MuiPaper-root-MuiPopover-paper-MuiMenu-paper{
+        margin-left: 1.2%;
+        margin-top: -1%;
+
+      }
+
+
+.followers{
+    display: flex;
+    justify-content: stretch;
+}
+.onseen{
+  margin-top: 0%;
+  padding:0.5%;
+  margin-bottom: -0.1%;
+
+}
+.onseen:hover{
+  border-radius: 2px;
+background-color: gray;
+  
+
+}
